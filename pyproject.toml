@@ -12,6 +12,10 @@ numpy = "^1.26.4"
 matplotlib = "^3.8.3"
 jupyter = "^1.0.0"
 faster-whisper = "^1.0.1"
+scipy = "^1.12.0"
+librosa = "^0.10.1"
+soundfile = "^0.12.1"
+mosestokenizer = "^1.2.1"
 
 
 [build-system]
