@@ -1,5 +1,5 @@
 .venv
-files/*
+files/test.wav
 .vscode
 __pycache__
 record.ipynb
